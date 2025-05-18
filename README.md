@@ -1,8 +1,11 @@
-<h5 align="left">👋 Hi there, I'm Samiksha Harjal!<br>🎓 I'm a passionate student pursuing Artificial Intelligence and Machine Learning.  <br><br>🧠 About Me<br><br>🏫 Currently pursuing my degree in AIML<br>🤖 Deeply interested in AI, ML& Data Science.<br>🛠️ Working on personal projects to apply classroom learning in real-world applications<br> 💬 Always open to collaboration, learning opportunities, and tech discussions</h5>
+<h1 align="center">Hi 👋, I'm Samiksha Harjal</h1>
+<h4 align="center">🎓 I'm a passionate student pursuing **Artificial Intelligence and Machine Learning**.  
+💡 Constantly exploring new tech, solving real-world problems, and contributing to open-source projects.
+</h4>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
@@ -33,9 +36,9 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SamikshaHarjal&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SamikshaHarjal&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=SamikshaHarjal&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="185" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SamikshaHarjal&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="185" alt="languages graph"  />
 </div>
 
 ###
